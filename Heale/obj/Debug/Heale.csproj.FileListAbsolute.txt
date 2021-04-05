@@ -1,0 +1,8 @@
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\obj\Debug\Heale.csprojResolveAssemblyReference.cache
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\obj\Debug\Heale.csproj.GenerateResource.Cache
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\bin\Debug\Heale.exe.config
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\bin\Debug\Heale.exe
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\bin\Debug\Heale.pdb
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\obj\Debug\Heale.MainForm.resources
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\obj\Debug\Heale.exe
+D:\Для учебы\Учебные материалы\Информатика\4 четверть\Программный код\Heale2\Heale\Heale\obj\Debug\Heale.pdb
